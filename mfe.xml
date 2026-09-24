@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-mfe/main/mfe.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 23 Sep 2026 12:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:08:31 +0000</lastBuildDate>
+    <item>
+      <title>Plan de Incentivos a Medio-Largo Plazo 2021-2023 | Evaluación del Cumplimiento de los Objetivos de Rendimiento y Concesión De Las Acciones Adjudicadas A Los Beneficiarios Del Plan</title>
+      <link>https://www.mfemediaforeurope.com/binary/documentRepository/75/Nota de prensa_2533.pdf</link>
+      <guid isPermaLink="true">https://www.mfemediaforeurope.com/binary/documentRepository/75/Nota de prensa_2533.pdf</guid>
+      <description>Comunicado de prensa oficial publicado por MFE-MEDIAFOREUROPE.</description>
+      <source url="https://www.mfemediaforeurope.com/es/medios-de-comunicacion/comunicados-de-prensa/">MFE-MEDIAFOREUROPE</source>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>EL CONSEJO DE ADMINISTRACIÓN DE MFE-MEDIAFOREUROPE HA APROBADO LOS RESULTADOS DEL PRIMER SEMESTRE DE 2026</title>
       <link>https://www.mfemediaforeurope.com/binary/documentRepository/65/Press Release_2531.pdf</link>
@@ -71,14 +79,6 @@
       <description>Comunicado de prensa oficial publicado por MFE-MEDIAFOREUROPE.</description>
       <source url="https://www.mfemediaforeurope.com/es/medios-de-comunicacion/comunicados-de-prensa/">MFE-MEDIAFOREUROPE</source>
       <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CASO «PASAPALABRA» MFE SOLICITARÁ LA ANULACIÓN DEL PROCEDIMIENTO CIVIL TRAS LA SENTENCIA DEL TRIBUNAL SUPREMO</title>
-      <link>https://www.mfemediaforeurope.com/binary/documentRepository/66/Nota de prensa_2512.pdf</link>
-      <guid isPermaLink="true">https://www.mfemediaforeurope.com/binary/documentRepository/66/Nota de prensa_2512.pdf</guid>
-      <description>Comunicado de prensa oficial publicado por MFE-MEDIAFOREUROPE.</description>
-      <source url="https://www.mfemediaforeurope.com/es/medios-de-comunicacion/comunicados-de-prensa/">MFE-MEDIAFOREUROPE</source>
-      <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
