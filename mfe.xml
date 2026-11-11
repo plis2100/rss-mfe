@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-mfe/main/mfe.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 15:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:40:23 +0000</lastBuildDate>
+    <item>
+      <title>MFE-MEDIAFOREUROPE N.V. PIER SILVIO BERLUSCONI: PRIMEROS NUEVE MESES DE 2026 EL EBIT DEL GRUPO VUELVE A SER POSITIVO Y SE SITÚA EN 110 MILLONES DE EUROS SEGMENTO ENTERTAINMENT: EBIT DE 122,2 MILLONES DE EUROS LOS COSTES SE REDUCEN EN 259,6 MILLONES DE EUROS</title>
+      <link>https://www.mfemediaforeurope.com/binary/documentRepository/87/Nota de prensa_2536.pdf</link>
+      <guid isPermaLink="true">https://www.mfemediaforeurope.com/binary/documentRepository/87/Nota de prensa_2536.pdf</guid>
+      <description>Comunicado de prensa oficial publicado por MFE-MEDIAFOREUROPE.</description>
+      <source url="https://www.mfemediaforeurope.com/es/medios-de-comunicacion/comunicados-de-prensa/">MFE-MEDIAFOREUROPE</source>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Modificación del importe del capital social y del número de acciones</title>
       <link>https://www.mfemediaforeurope.com/binary/documentRepository/46/MFE - PR Share Issue 2021-2023 LTI 1 October 2026 (ESP)_2534.pdf</link>
@@ -71,14 +79,6 @@
       <description>Comunicado de prensa oficial publicado por MFE-MEDIAFOREUROPE.</description>
       <source url="https://www.mfemediaforeurope.com/es/medios-de-comunicacion/comunicados-de-prensa/">MFE-MEDIAFOREUROPE</source>
       <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MEDIASET PER IL FUTURO: LA CAMPAGNA PER PROMUOVERE UN UTILIZZO CONSAPEVOLE DEI SOCIAL MEDIA</title>
-      <link>https://www.mfemediaforeurope.com/binary/documentRepository/12/Comunicato Stampa_2523.pdf</link>
-      <guid isPermaLink="true">https://www.mfemediaforeurope.com/binary/documentRepository/12/Comunicato Stampa_2523.pdf</guid>
-      <description>Comunicado de prensa oficial publicado por MFE-MEDIAFOREUROPE.</description>
-      <source url="https://www.mfemediaforeurope.com/es/medios-de-comunicacion/comunicados-de-prensa/">MFE-MEDIAFOREUROPE</source>
-      <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
